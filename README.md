@@ -2,6 +2,12 @@
 
 LINQ Simulator is an interactive C# console application designed to let you experiment with LINQ queries in real time. Instead of writing a full project and recompiling every time you want to tweak a query, this tool uses Roslyn scripting under the hood to dynamically compile and execute your lambda expressions against an in-memory collection of values.
 
+![LINQ Simulator Demo 1](https://github.com/atymri/LINQSimulator/blob/master/screenshot1.png)
+![LINQ Simulator Demo 2](https://github.com/atymri/LINQSimulator/blob/master/screenshot2.png)
+![LINQ Simulator Demo 3](https://github.com/atymri/LINQSimulator/blob/master/screenshot3.png)
+
+
+
 ## How It Works
 
 Behind the scenes, the program:
